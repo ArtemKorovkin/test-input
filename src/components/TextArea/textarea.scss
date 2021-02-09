@@ -1,0 +1,17 @@
+
+.MuiInput-underline::before {
+  content: none !important;
+}
+
+.MuiInput-underline::after {
+  content: none !important;
+}
+
+.markerInput {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 7px;
+  background-color: #dee0e3;
+  margin-top: 7px;
+}
